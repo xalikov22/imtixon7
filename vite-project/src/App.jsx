@@ -14,7 +14,7 @@ function App() {
   
   return (
     <BrowserRouter>
-      
+
         <Navbar/>
        <Routes>
           <Route path='/' element={<Home />} />
@@ -22,6 +22,7 @@ function App() {
           <Route path='/basket' element={<Basket />} />
           <Route path='/login' element={<Login/>}/>
           <Route path='/sigin' element={<Sigin />} />
+          <h1>salom</h1>
       </Routes> 
    
        
