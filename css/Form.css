@@ -1,0 +1,55 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+.get {
+  margin: 50px 0px;
+}
+.get__wrapper {
+  padding: 37px 66px;
+  background-color: #6c5fbc;
+  border-radius: 30px;
+  display: flex;
+  justify-content: space-between;
+}
+.get__title2 {
+  font-size: 50px;
+  color: #ffffff;
+  font-family: "Poppins", sans-serif;
+  font-weight: 800;
+  font-style: normal;
+}
+.get__form {
+  display: flex;
+  justify-content: space-between;
+  gap: 6px;
+  width: 330px;
+  border: 0px;
+  border-radius: 12px;
+  padding: 12px 15px;
+  background-color: #f9f9f9;
+}
+.get__input {
+  border: 0px;
+}
+.get__btn {
+  padding: 7px 9px;
+  border-radius: 6px;
+  border: 0px;
+}
+
+@media only screen and (max-width: 375px) {
+  .get {
+    align-items: center;
+  }
+  .get__wrapper {
+    padding: 17px 10px;
+    flex-wrap: wrap;
+    gap: 40px;
+  }
+  .get__form {
+    display: flex;
+    background-color: #000;
+    justify-content: space-between;
+  }
+  .get__img {
+    margin-left: 60px;
+  }
+}/*# sourceMappingURL=Form.css.map */

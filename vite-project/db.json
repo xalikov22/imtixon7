@@ -1,0 +1,115 @@
+{
+    "'products": [
+
+
+
+        {
+            "id": 1,
+            "title": "Chicken Hell",
+            "min": "24min",
+            "price": "12.99$",
+            "avatar": "./public/foot1.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Chicken Hell",
+            "min": "24min",
+            "price": "12.99$",
+            "avatar": "./public/foot2.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Chicken Hell",
+            "min": "24min",
+            "price": "12.99$",
+            "avatar": "./public/foot1.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Chicken Hell",
+            "min": "24min",
+            "price": "12.99$",
+            "avatar": "./public/foot1.jpg"
+        },
+        {
+            "id": 5,
+            "title": "Chicken Hell",
+            "min": "24min",
+            "price": "12.99$",
+            "avatar": "./public/foot2.jpg"
+        },
+        {
+            "id": 6,
+            "title": "Chicken Hell",
+            "min": "24min",
+            "price": "12.99$",
+            "avatar": "./public/foot1.jpg"
+        },
+        {
+            "id": 7,
+            "title": "Chicken Hell",
+            "min": "24min",
+            "price": "12.99$",
+            "avatar": "./public/foot1.jpg"
+        },
+        {
+            "id": 8,
+            "title": "Chicken Hell",
+            "min": "24min",
+            "price": "12.99$",
+            "avatar": "./public/foot2.jpg"
+        },
+        {
+            "id": 9,
+            "title": "Chicken Hell",
+            "min": "24min",
+            "price": "12.99$",
+            "avatar": "./public/foot1.jpg"
+        },
+        {
+            "id": 10,
+            "title": "Chicken Hell",
+            "min": "24min",
+            "price": "12.99$",
+            "avatar": "./public/foot1.jpg"
+        },
+        {
+            "id": 11,
+            "title": "Chicken Hell",
+            "min": "24min",
+            "price": "12.99$",
+            "avatar": "./public/foot2.jpg"
+        },
+        {
+            "id": 12,
+            "title": "Chicken Hell",
+            "min": "24min",
+            "price": "12.99$",
+            "avatar": "./public/foot1.jpg"
+        },
+        {
+            "id": 13,
+            "title": "Chicken Hell",
+            "min": "24min",
+            "price": "12.99$",
+            "avatar": "./public/foot1.jpg"
+        },
+        {
+            "id": 14,
+            "title": "Chicken Hell",
+            "min": "24min",
+            "price": "12.99$",
+            "avatar": "./public/foot2.jpg"
+        },
+        {
+            "id": 15,
+            "title": "Chicken Hell",
+            "min": "24min",
+            "price": "12.99$",
+            "avatar": "./public/foot1.jpg"
+        }
+
+
+
+    ]
+}

@@ -1,0 +1,27 @@
+.korzinka__block {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 500px;
+  background-color: white;
+  margin: 0 auto;
+  margin-top: 20px;
+  border-radius: 10px;
+}
+.korzinka__left_block {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+.korzinka__right {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-right: 20px;
+}
+
+.count__btn {
+  background-color: blueviolet;
+  padding: 10px 10px;
+  border-radius: 20px;
+}/*# sourceMappingURL=Basket.css.map */
